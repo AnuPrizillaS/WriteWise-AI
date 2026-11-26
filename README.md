@@ -73,3 +73,11 @@ streamlit run app.py
 ## Purpose
 
 Developed as a Mini Project for the Generative AI and LLM Internship at Skill Nexis.
+
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+**[Launch WriteWise AI](https://writewise-ai-3zkft75dazihgam4appdfxw.streamlit.app/)**
+
+The application is built using Python, Streamlit, and the Google Gemini API.
